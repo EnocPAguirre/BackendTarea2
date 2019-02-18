@@ -1,0 +1,18 @@
+{
+    "telemetry.machineId": "b26bcd461d870fcf8f1b41be82765d0b6804b4a81740b27f1717e38c6cf6bb7c",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/opt/lampp/htdocs/TareaBackend2/~/.vscode-root/Backups/1550455130850",
+            "uiState": {
+                "mode": 1,
+                "x": 171,
+                "y": 27,
+                "width": 1024,
+                "height": 741
+            }
+        }
+    }
+}
